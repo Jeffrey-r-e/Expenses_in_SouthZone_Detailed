@@ -1,0 +1,28 @@
+Item,Amount,Expense Type,Payment Method
+Local Transport,130,Transport,Cash
+Rail Fare,10,Transport,Cash
+Recharge,43,Other,Online
+Juice,40,Food,Cash
+Coffee,20,Food,Cash
+Earphones,100,Other,Cash
+Charity Donation,20,Other,Cash
+Accommodation,1000,Transport,Cash & Online
+Service Fee,30,Other,Cash
+Bus Ticket Local,56,Transport,Cash
+Personal Supplies,220,Personal,Cash
+Bus Ticket Zone A,36,Transport,Cash
+Snacks for Kids,100,Personal,Cash
+Personal Support,500,Personal,Cash
+Bus Ticket Zone B,122,Personal,Cash
+Gift,900,Transport,Cash
+Bus Ticket Capital,76,Personal,Cash
+Stationery,2,Personal,Cash
+Personal Support,100,Personal,Cash
+Cash on Hand,34,Personal,Online
+Local Transport,165,Transport,Cash
+Petrol,30,Transport,Cash
+Online Payment Balance,25,Other,Online & Cash
+Coffee,10,Food,Cash
+Badam Milk,15,Food,Cash
+Total Spent,3784,,
+Remaining,216,,
